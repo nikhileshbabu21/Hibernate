@@ -1,0 +1,66 @@
+Eager & Lazy
+-------------
+
+
+FetchType
+	- EAGER
+	- LAZY
+	
+
+Account
+	- User
+	- History
+		
+
+MVC Architecture
+------------------
+
+Model, View, Controller
+
+Frameworks:
+
+Struts - Apache
+Spring
+Tapestry
+OFBiz
+Groovy and Grails
+CMS
+
+
+struts.xml
+Action classes
+Action forms
+Interceptors
+Annotations
+Integration with Hibernate
+Action mappings
+Exception handling
+Form Validations
+Struts2 AJAX components
+Aware Interfaces
+
+
+struts2-core
+
+
+Struts2 Filter - web.xml
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+		
+		
+		
+		
+		
+		
